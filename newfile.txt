@@ -1,1 +1,2 @@
 This is a new file created in the branch
+I am adding new text to this file
